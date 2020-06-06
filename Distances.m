@@ -1,0 +1,2 @@
+load distances;
+class(distances)
